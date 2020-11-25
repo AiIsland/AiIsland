@@ -27,6 +27,9 @@ Copy paste is allowed for educational purpose only !!!
 9-Download a video from internet to test the model and put it in the same folder
 
 10-open object_Detection.py and change :yolov3_training_last.weights', 'yolov3_testing.cfg' to the one that you have mad
-                                        shfa-o-kmam-alogh-shfa-and-face-mask.mp4 to your video_name.mp4
+                                       and    shfa-o-kmam-alogh-shfa-and-face-mask.mp4 to your video_name.mp4
 
 11-run the code and enjoy it!
+
+
+                                                                                            Created By: Y.ALJAOUI & A.EL-WASMI
