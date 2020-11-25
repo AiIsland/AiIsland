@@ -40,5 +40,5 @@ The process of determining the "action" is the process of passing the obtained Q
 
 So why not directly select the action corresponding to the largest Q value, but use Softmax-Function to make the decision? There are several action selection strategies involved here. It is not impossible to directly select the largest Q value. This is called greedy strategy. The disadvantage is that it is easy to fall into the local optimal solution. Because if you finally achieve the goal after performing an action, then this strategy will always choose this action in the subsequent state, resulting in no chance to explore the global optimal solution.
                                                                       
-                                                                                                                       Created By: Y.ALJAOUI & A.EL-WASMI
+                                                                                               Created By: Y.ALJAOUI & A.EL-WASMI
 
