@@ -2,7 +2,7 @@
 
 ![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png)
 
-Please not that you can clone this project for educational purposes only !!!
+Please note that you can clone this project for educational purposes only !!!
 
 With this code you can run entire Yolo4 pre-trained model in google Colab , you can even procees your videos without any GPU(you can use just your phone !!!)
 
